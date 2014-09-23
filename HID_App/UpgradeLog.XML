@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HID_App">
+</Property><Property Name="Solution File" Value="C:\Ricardo\ITESM\IEC\PracticasLab\Practica5_archivos\HID_App\HID_App.sln">
+</Property><Property Name="Date" Value="martes, 01 de noviembre de 2011">
+</Property><Property Name="Time" Value="12:06 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="HID_App" Source="HID_App.vcproj" Description="Converting project file 'C:\Ricardo\ITESM\IEC\PracticasLab\Practica5_archivos\HID_App\HID_App.vcproj'.">
+</Event><Event ErrorLevel="1" Project="HID_App" Source="HID_App.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="HID_App" Source="HID_App.vcproj" Description="MSB8012: $(TargetPath) ('C:\Ricardo\ITESM\IEC\PracticasLab\Practica5_archivos\HID_App\.\Release\HID_App.exe') does not match the Linker's OutputFile property value '.\Release/HID_App.exe' ('C:\Ricardo\ITESM\IEC\PracticasLab\Practica5_archivos\HID_App\Release/HID_App.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="HID_App" Source="HID_App.vcproj" Description="MSB8012: $(TargetPath) ('C:\Ricardo\ITESM\IEC\PracticasLab\Practica5_archivos\HID_App\.\Debug\HID_App.exe') does not match the Linker's OutputFile property value '.\Debug/HID_App.exe' ('C:\Ricardo\ITESM\IEC\PracticasLab\Practica5_archivos\HID_App\Debug/HID_App.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="HID_App" Source="HID_App.vcproj" Description="Done converting to new project file 'C:\Ricardo\ITESM\IEC\PracticasLab\Practica5_archivos\HID_App\HID_App.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="HID_App" Source="HID_App.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="HID_App.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="HID_App.sln" Description="Converted">
+</Event></UpgradeLog>
